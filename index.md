@@ -4,8 +4,8 @@ mail-id: gv.shruthi4@gmail.com
 
 ### EDUCATION
 - MSc in Organic chemistry from OSMANIA University.
-- BSc in Chemistry from Kakkatiya University.
-- Spent 3 years on public services examination preperation (2015 - 2019).
+- BSc in Chemistry from Kakatiya University.
+- Spent 3 years on public services examination preparation (2015 - 2019).
 
 ### Experience
 - Worked as a teaching faculty for chemistry and biotechnology subjects for all the year students at Trinity Degree College (2011 - 2014).
