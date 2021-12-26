@@ -1,7 +1,6 @@
 # GV SHRUTHI
 ### Exploring DATA SCIENCE usage in the field of chemistry.
- mail-id: gv.shruthi4@gmail.com
- Mobile: 9493XXXXXXX
+
 ### EDUCATION
 - MSc in Organic chemistry from OSMANIA University.
 - BSc in Chemistry from Kakkatiya University.
