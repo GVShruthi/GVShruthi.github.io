@@ -1,4 +1,5 @@
 # GV SHRUTHI
+mail-id: gv.shruthi4@gmail.com
 ### Exploring DATA SCIENCE usage in the field of chemistry.
 
 ### EDUCATION
